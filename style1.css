@@ -149,6 +149,21 @@ bottom: 504px;
 background: url(/Users/aahana/Downloads/image4.png);
 }
 
+.headings{
+position: absolute;
+height: 341px;
+left: 76.5px;
+right: 77.5px;
+top: 811px;
+
+font-family: 'Palanquin';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 49px;
+
+color: #000000;
+}
 /* Rectangle 7 */
 .rectangle{
 position: absolute;

@@ -1,0 +1,151 @@
+/* desktop details */
+
+/* Auto layout */
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    
+    position: relative;
+    width: 1440px;
+    height: 1733px;
+    
+    background: #DBDCDE;
+    }
+    
+    /* image 1 */
+    .image4{
+    position: absolute;
+    width: 1740px;
+    height: 137px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(/Users/aahana/Downloads/image3.png);
+    opacity: 0.8;
+    }
+    
+    /* SPACE WORK */
+    .spaceworks{
+    position: absolute;
+    width: 1022px;
+    height: 182px;
+    left: 209px;
+    top: 46px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 150px;
+    line-height: 182px;
+    z-index: 1;
+    
+    /* identical to box height */
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    }
+    
+    .ourmission{
+    
+    /* Our Mission */
+    
+    position: absolute;
+    height: 62px;
+    left: 112px;
+    right: 766px;
+    top: 220px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    /* Logistics */
+    
+    .logistic{
+    position: absolute;
+    height: 36px;
+    left: 326px;
+    right: 617px;
+    top: 220px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    /* Launch and Recovery */
+    .launch{
+    position: absolute;
+    height: 42px;
+    left: 490px;
+    right: 275px;
+    top: 220px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #000000;
+    }
+    
+    /* Sign Up */
+    .signup{
+    position: absolute;
+    height: 42px;
+    left: 845px;
+    right: 113px;
+    top: 220px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #000000
+    }
+
+.dets{
+position: absolute;
+height: 341px;
+left: 77px;
+right: 77px;
+top: 350px;
+
+font-family: 'Palanquin';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 49px;
+
+color: #000000;
+
+}
+    
+    /* Rectangle 7 */
+    .rectangle{
+    position: absolute;
+    width: 1441px;
+    height: 110px;
+    left: 0px;
+    top: 1623px;
+    
+    background: #31446A;
+    }

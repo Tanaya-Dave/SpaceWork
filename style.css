@@ -1,3 +1,4 @@
+/*home*/
 /* desktop main */
 body {
     display: flex;
@@ -174,6 +175,23 @@ width: 776px;
 height: 179px;
 left: calc(50% - 776px/2 + 125px);
 top: 1170px;
+
+font-family: 'Palanquin';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 49px;
+
+color: #000000;
+}
+
+.paragr{
+
+position: absolute;
+width: 776px;
+height: 179px;
+left: calc(50% - 776px/2 + 100px);
+top: 1470px;
 
 font-family: 'Palanquin';
 font-style: normal;

@@ -1,0 +1,173 @@
+/*signup*/
+
+/* desktop details */
+
+/* desktop signup */
+
+body{
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: relative;
+width: 1381px;
+height: 1460px;
+
+background: #DBDCDE;
+}
+
+.image11{
+/* image 1 */
+
+position: absolute;
+width: 1880px;
+height: 685px;
+left: -12px;
+top: -4px;
+
+background: url(/Users/aahana/Downloads/image11.png);
+}
+
+.header{
+
+ /* Ready to experience space? */
+
+position: absolute;
+height: 530px;
+left: 131px;
+right: 179px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 150px;
+line-height: 182px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.interest{
+
+/* Interested? sign up now. */
+
+position: absolute;
+height: 65px;
+left: 231px;
+right: 230px;
+top: 980px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 77px;
+text-transform: uppercase;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.parag{
+
+position: absolute;
+height: 341px;
+left: 77px;
+right: 77px;
+top: 1066px;
+
+font-family: 'Palanquin';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 49px;
+
+color: #000000;
+
+
+}
+
+/* Our Mission */
+.our-mission {
+    position: absolute;
+    width: 188px;
+    height: 62px;
+    left: calc(50% - 188px/2 - 287px);
+    top: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+  }
+  .our-mission h2 {
+    margin: 0;
+  }
+
+/* Logistics */
+.logistics{
+position: absolute;
+width: 149px;
+height: 40px;
+left: calc(50% - 149px/2 - 92.5px);
+top: 710px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+
+
+/* Launch and Recovery */
+.launch-recovery{
+position: absolute;
+width: 301px;
+height: 42px;
+left: calc(50% - 301px/2 + 147.5px);
+top: 710px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+
+/* Sign Up */
+.sign-up{
+position: absolute;
+width: 108px;
+height: 42px;
+left: calc(50% - 108px/2 + 406px);
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
